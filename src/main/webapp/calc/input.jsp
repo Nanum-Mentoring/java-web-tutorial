@@ -5,11 +5,10 @@
     <title>Title</title>
 </head>
 <body>
-    <form>
+    <form action="calcResult.jsp" method="post"> <!-- 주소와 전달 데이터를 분리 -->
         <input type="number" name="num1"/>
         <input type="number" name="num2"/>
         <button type="submit">SEND</button> <!-- 전송 -->
-        <!--? queryString / 키=값 parameter-->
     </form>
 </body>
 </html>
