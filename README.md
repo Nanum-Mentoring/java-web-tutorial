@@ -20,11 +20,11 @@
 
 ### 1.4 HttpServlet 60
 
-- [ ]  HttpServletRequest의 주요 기능
-- [ ]  HttpServletResponse의 주요 기능
-- [ ]  실습_01 와이어 프레임의 구현
-- [ ]  실습_02 TodoListController구현
-- [ ]  실습_03 TodoReigsterController의 구현
+- [x]  HttpServletRequest의 주요 기능
+- [x]  HttpServletResponse의 주요 기능
+- [x]  실습_01 와이어 프레임의 구현
+- [x]  실습_02 TodoListController구현
+- [x]  실습_03 TodoReigsterController의 구현
 
 ### 1.5 모델(Model) 74
 
