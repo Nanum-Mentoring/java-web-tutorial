@@ -20,21 +20,21 @@
 
 ### 1.4 HttpServlet 60
 
-- [ ]  HttpServletRequest의 주요 기능
-- [ ]  HttpServletResponse의 주요 기능
-- [ ]  실습_01 와이어 프레임의 구현
-- [ ]  실습_02 TodoListController구현
-- [ ]  실습_03 TodoReigsterController의 구현
+- [x]  HttpServletRequest의 주요 기능
+- [x]  HttpServletResponse의 주요 기능
+- [x]  실습_01 와이어 프레임의 구현
+- [x]  실습_02 TodoListController구현
+- [x]  실습_03 TodoReigsterController의 구현
 
 ### 1.5 모델(Model) 74
 
-- [ ]  모델과 3티어
-- [ ]  실습_04 TodoService 클래스
-- [ ]  컨트롤러에서 모델 처리하기
-- [ ]  실습_05 TodoListController의 처리
-- [ ]  JSP - EL(Expression Language)
-- [ ]  JSTL
-- [ ]  실습_06 Todo 조회
+- [x]  모델과 3티어
+- [x]  실습_04 TodoService 클래스
+- [x]  컨트롤러에서 모델 처리하기
+- [x]  실습_05 TodoListController의 처리
+- [x]  JSP - EL(Expression Language)
+- [x]  JSTL
+- [x]  실습_06 Todo 조회
 
 ## 📌 PART2 웹과 데이터베이스
 
