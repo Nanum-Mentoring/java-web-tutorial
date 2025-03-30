@@ -1,3 +1,4 @@
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%--
   Created by IntelliJ IDEA.
   User: yunaxong
@@ -12,6 +13,19 @@
 </head>
 <body>
     <h1>List Page</h1>
-    ${list[0].tno} - ${list[0].title}
+
+    <ul>
+        <c:forEach var="dto" items="${list}">
+            <li>${dto}</li>
+        </c:forEach>
+    </ul>
+    <c:choose>
+        <c:when test="${list.size() % 2 == 0}">
+            짝수
+        </c:when>
+        <c:otherwise>
+            홀수
+        </c:otherwise>
+    </c:choose>
 </body>
 </html>
