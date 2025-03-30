@@ -12,6 +12,6 @@
 </head>
 <body>
     <h1>List Page</h1>
-    ${list}
+    ${list[0].tno} - ${list[0].title}
 </body>
 </html>
